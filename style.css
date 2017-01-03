@@ -1,0 +1,10 @@
+body {
+  font-family: 'cursive', cursive;, cursive;
+  font-weight: 400;;
+  background-image: url(horse.jpg);
+  background-repeat: repeat;
+}
+#wrapper {
+  width: 960px;
+  margin: 20px auto 20px auto;
+}
